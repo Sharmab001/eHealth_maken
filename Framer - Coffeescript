@@ -1,0 +1,292 @@
+# Import file "Maken_eindopdracht_BDD" (sizes and positions are scaled 1:2)
+screen= Framer.Importer.load("imported/Maken_eindopdracht_BDD@2x")
+
+
+scroll = ScrollComponent.wrap(screen.Home)
+scroll.scrollHorizontal = false
+scroll.contentInset =
+		bottom:-1050
+	
+scroll = ScrollComponent.wrap(screen.berichtDelen)
+scroll.scrollHorizontal = false
+scroll.contentInset = 
+		bottom:-600
+	
+screen.menuItems_Layer.states.active =
+	x: 140
+
+screen.Hamburger_menu.onClick (event, layer) ->
+	screen.menuItems_Layer.animate "active",
+		
+screen.menuItems_Layer.onClick (event, layer) ->
+	screen.menuItems_Layer.animate "default",
+	
+
+screen.popup.states.active =
+	y:900
+	
+screen.fotoToevoegen.onClick (event, layer) ->
+	screen.popup.animate "active",
+	
+	
+screen.annulerenKnop.onClick (event, layer) ->
+	screen.popup.animate "default",
+	
+
+
+#Fotodagboek hamburgermenu
+screen.menuitems_mijnFotoDagboek.states.active =
+	x: 140
+
+screen.Hamburger_menu2.onClick (event, layer) ->
+	screen.menuitems_mijnFotoDagboek.animate "active",
+		
+screen.Hamburger_menu2.onClick (event, layer) ->
+	screen.menuitems_mijnFotoDagboek.animate "default",
+	
+
+
+flow = new FlowComponent
+
+
+screen.Homeknop1.onClick ->
+flow.showNext(screen.Home)
+
+
+screen.melding1.states.active =
+	y:2
+		
+screen.kruisIcon1.onClick (event, layer) ->
+	screen.melding1.animate "active",
+
+screen.TerugknopBevestiging_scherm.onClick ->
+flow.showPrevious(screen.berichtDelen2)
+
+
+
+#Terugknoppijlje op Ervaringtoevoegenpagina
+flow = new FlowComponent
+flow.showNext(screen.Home)
+	
+# Show next screen
+screen.toevoegenContent.onClick ->
+	flow.showNext(screen.toevoegenErvaring)
+	
+# Show previous screen
+screen.terugknop1.onClick ->
+	flow.showPrevious(screen.Home)		
+	
+	
+# Show next screen
+screen.volgendeButton.onClick ->
+	flow.showNext(screen.berichtDelen)
+	
+# Show previous screen
+screen.terugknop2.onClick ->
+	flow.showPrevious(screen.toevoegenErvaring)			
+
+	# Show next screen
+screen.buttonplaatsen.onClick ->
+	flow.showNext(screen.bevestigingScherm_2_)
+	
+
+screen.TerugknopBevestiging_scherm.onClick ->
+	flow.showPrevious(screen.berichtDelen)
+	
+	
+screen.KruisiconHome.onClick ->
+	flow.showNext(screen.Home)
+	
+	
+	# Show previous screen
+screen.kruisIcon.onClick ->
+	flow.showOverlayLeft(screen.Home)		
+	
+	
+	
+screen.delenbutton2.onClick ->
+	flow.showOverlayCenter(screen.MijnfotodagBoek)
+	
+screen.content11.onClick ->
+	flow.showNext(screen.Mijnfotodagboek_details)
+	
+	
+screen.terugknop_mijnfotoDagboek.onClick ->	flow.showPrevious(screen.Mijnfotodagboek)
+
+	
+
+
+screen.arrow.onClick ->	flow.showOverlayBottom(screen.zwartScherm)
+
+
+screen.zwartScherm.states.active =
+	y:1700
+	
+screen.arrow.onClick (event, layer) ->
+	screen.zwartScherm.animate "active",
+		
+screen.arrow1.onClick (event, layer) ->
+	screen.zwartScherm.animate "default",
+	
+	
+screen.Homeknop1.onClick ->
+	flow.showOverlayLeft(screen.Home)
+
+	
+
+
+
+
+#Navigatie van Homepagina
+screen.menuItems.states.active =
+	x: 140
+
+screen.Hamburger_menu.onClick (event, layer) ->
+	screen.menuItems.animate "active",
+		
+screen.Hamburger_menu.onClick (event, layer) ->
+	screen.menuItems.animate "default",
+
+
+Utils.globalLayers(screen)
+
+
+therapeuten.onTap ->
+	toggle.animate
+		properties:
+			x: 410
+			curve: "ease-in-out"
+		time: .8
+		
+therapeuten.onTap ->
+	toggle.animate
+		properties:
+			x: 10
+			curve: "ease-in-out"
+		time: .5
+
+vriendengroep.onTap ->
+	toggle2.animate
+		properties:
+			x: 410
+			curve: "ease-in-out"
+		time: .8
+
+vriendengroep.onTap ->
+	toggle2.animate
+		properties:
+			x: 10
+			curve: "ease-in-out"
+		time: .8
+
+expgroep.onTap ->
+	toggle3.animate
+		properties:
+			x: 410
+			curve: "ease-in-out"
+		time: .8
+	
+expgroep.onTap ->
+	toggle3.animate
+		properties:
+			x: 10
+			curve: "ease-in-out"
+		time: .8
+		
+linda.onTap ->
+	toggle4.animate
+		properties:
+			x: 410
+			curve: "ease-in-out"
+		time: .8 
+	
+linda.onTap ->
+	toggle4.animate
+		properties:
+			x: 10
+			curve: "ease-in-out"
+		time: .8
+	
+
+	lisa.onTap ->
+	toggle5.animate
+		properties:
+			x: 410
+			curve: "ease-in-out"
+		time: .8
+	
+lisa.onTap ->
+	toggle5.animate
+		properties:
+			x: 10
+			curve: "ease-in-out"
+		time: .8
+	
+
+
+#overgang van toevoegen ervaring
+screen.toevoegenErvaring.states.active =
+	x: 0
+
+screen.toevoegenContent.onClick (event, layer) ->
+	screen.toevoegenErvaring.animate "active",
+
+
+# Bericht toevoegen nadat je op plus klikt
+screen.berichtDelen.states.active =
+	x: 0
+	
+screen.volgendeButton.onClick (event, layer) ->
+	screen.berichtDelen.animate "active",
+		
+			
+#overgang naar pagina bevestiging gedeelde content
+screen.bevestigingScherm.states.active =
+	x: 0
+	
+screen.buttonplaatsen.onClick (event, layer) ->
+	screen.bevestigingScherm.animate "active",
+		
+	
+#klik op therapeuten, en de rest van content schuift naar boven
+kruisIcon1.onTap ->
+	Exposuregr_1.animate
+		properties:
+			x: 810
+			curve: "ease-in-out"
+		time: .8
+	
+	vriendenGroep2.animate
+		properties:
+			y: 400
+			curve: "ease-in-out"
+		time: .8
+		
+	ExpGroep3.animate
+		properties:
+			y: 525
+			curve: "ease-in-out"
+		time: .8
+		
+	LindabeekGroep2.animate
+		properties:
+			y: 645
+			curve: "ease-in-out"
+		time: .8
+		
+		melding1.animate
+			opacity: 0
+			options:
+				delay: 1
+			
+	
+okKnop.onTap ->
+	Melding.animate
+			opacity: 0
+			options:
+				delay: 0
+				
+
+	
+
+		
