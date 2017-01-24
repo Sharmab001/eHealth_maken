@@ -12,17 +12,9 @@ Voor het ontwerpen, hebben wij key scenarios binnen de team opgesteld. Ik heb ge
 -	Hoe kan ik de interactie van de elementen binnen de app goed overbrengen?
 
 Hoe heb ik dit onderzocht?
-Ik heb op de website van framer naar een aantal voorbeelden gekeken van ontwerpers. Daar kwam niet zo veel naar voren, maar zelf denk ik wel dat het technisch haalbaar is. De komende tijd, moet ik meer verdiepen in framer.
+Ik heb op het website van framer naar een aantal voorbeelden gekeken van ontwerpers. Daar kwam niet zo veel naar voren, maar zelf denk ik wel dat het technisch haalbaar is. De komende tijd, moet ik meer verdiepen in framer.
 
 Ik heb wel gekeken naar aantal social media platforms website, die de gebruikers privacy instellingen laten beheren.
-
-Facebook
-- Toggle menu, met de keuzes die verwijs naar een bepaald pagina. Gebruiker past instellingen aan en klikt op button “opslaan”.
-- Gesloten slot icon, dat feedback geeft dat de content niet zichtbaar is voor iedereen. Als men erop klikt, gaat de slot open.
-
-Instagram
-- Verhaalinstellingen verbergen voor aantal personen. De gebruiker gaat naar de instellingen, en kan aanvinken voor welke personen de content verborgen moet worden en kan dit vervolgens opslaan.
-
 
 Visueel uitwerking
 De visuele uitwerking, heb ik ongeveer wel in mijn hoofd hoe ik dat ga vormgeven. Ik ga mijn ontwerpen, uitwerken in Sketch en vervolgens importeren naar framer. Alleen moet ik met framer wel uitvogelen hoe ik de elementen binnen de app met elkaar kan koppelen.
