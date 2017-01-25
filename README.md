@@ -8,7 +8,9 @@ Coffeescript was voor mij helemaal nieuw en in het begin had ik er heel veel moe
 
 Framer kiest voor Coffeescript, zodat ontwerpers hun prototype makkelijk interactief kunnen maken. Coffeescript geeft men een voorsprong als het gaat om een soortgelijke taal te leren (Javascript of Swift). Whitespace (tabs en spaties) is een belangrijk onderdeel van CoffeeScript. Het is dus belangrijk om genoeg witruimte te hebben tussen de elementen anders krijg je foutmeldingen. (framer.js,2016)
 
-Het was wel interessant om te zien hoe je leuke dingen met framer kan maken, dus daarom wilde ik dit heel graag leren. Een framjer.js prototype, is meer interactiever en zit meer belevenis in. Invision bijvoorbeeld is heel page-based, waardoor je door pagina’s heen klikt. In framer.js kan je de kleinste elementen mooi animeren. Ik heb nu de basis van Coffeescript onder mijn knieën, zoals: elementen klikbaar maken, flows tussen de pagina’s toevoegen, sliden/scrollen, en elementen beetje laten animeren. In de toekomst, wil ik framer.js verder gebruiken en mijn kennis ervan meer uitbreiden.
+Het was wel interessant om te zien hoe je leuke dingen met framer kan maken, dus daarom wilde ik dit heel graag leren. Een framjer.js prototype, is meer interactiever en zit meer belevenis in. Invision bijvoorbeeld is heel page-based, waardoor je door pagina’s heen klikt. In framer.js kan je de kleinste elementen mooi animeren. Ik heb nu de basis van Coffeescript onder mijn knieën, zoals: elementen klikbaar maken, flows tussen de pagina’s toevoegen, sliden/scrollen, en elementen beetje laten animeren. In de toekomst, wil ik framer.js verder gebruiken en mijn kennis meer uitbreiden.
+
+In de artikelen, heb ik gelezen dat programmeurs zich erg thuis kunnen voelen bij framer, maar als visual designer vond ik heel interessant om te leren. Vooral het community is aan te raden, als je nieuw bent in framer en je krijgt redelijk snel reactie van andere ontwerpers.
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
