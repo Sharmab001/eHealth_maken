@@ -19,4 +19,3 @@ Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Commu
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
 
-
