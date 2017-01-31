@@ -14,7 +14,7 @@ Het beste aan framer vond ik dat er meer belevenis inzit en dat het mij mogelijk
 In de toekomst, wil ik framer.js verder gebruiken en mijn kennis meer uitbreiden. Daarvoor moet ik meer tijd nemen en meer vragen stellen in de community. Ik vond het vooral prettig dat ik mijn schermen in sketch makkelijk kon importeren in Framer. Het ging altijd foutloos en mijn schermen en de layers waren goed zichtbaar. 
 
 
-Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Community op Facebook, en op de website te kijken naar het werk van andere ontwerpers. Ook kan men op Youtube naar voorbeelden kijken, maar mijn voorkeur gaat liever naar de community omdat men daar voorbeelden in code plaatst. 
+Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Community op Facebook, en op de website te kijken naar het werk van andere ontwerpers. Ook kan men op Youtube naar voorbeelden kijken, maar mijn voorkeur gaat liever naar de community omdat men daar voorbeelden in vorm van code plaatst met een goed uitleg.
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
