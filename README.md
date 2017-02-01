@@ -20,7 +20,7 @@ De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik
 
 Mijn Coffeescript code is terug te vinden in mijn Github. Om mijn prototype met de bijhorende code te openen, moet de framer programma gedownload worden. 
 
-**Framer is alleen beschikbaar voor Mac.
+**Framer is alleen beschikbaar voor Mac.**
 
 **Tips:**
 - Als je schermen van Sketch naar Framer importeert, geef de layers een logisch naam zodat je dit makkelijk kan aanroepen in de code.
