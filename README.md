@@ -21,12 +21,12 @@ De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik
 Mijn Coffeescript code is terug te vinden in mijn Github. Om mijn prototype met de bijhorende code te openen, moet de framer programma gedownload worden. Framer is alleen beschikbaar voor Mac.
 
 Tips:
-1. Als je schermen van Sketch naar Framer importeert, geef de layers een logisch naam zodat je dit makkelijk kan aanroepen in de code.
-2. Vanuit Photoshop kan je ook schermen importeren naar Framer, dus voel je vrij om ook met Photoshop te werken.
-3. Let op witruime in je Coffeescript code, door te weinig witruime kan je ook foutmeldingen krijgen.
-4. Download Framer preview via app store om je prototype te testen op je mobiel. Zorg ervoor dat je wel verbonden bent met WiFi.
-5. Als je error melding krijgt, stel je vraag in de Community het wordt meestal wel opgelost door experts.
-6. Framer programma kan wel vaak vastzitten, zorg ervoor dat je na een paar minuten je code blijft opslaan.
+- Als je schermen van Sketch naar Framer importeert, geef de layers een logisch naam zodat je dit makkelijk kan aanroepen in de code.
+- Vanuit Photoshop kan je ook schermen importeren naar Framer, dus voel je vrij om ook met Photoshop te werken.
+- Let op witruime in je Coffeescript code, door te weinig witruime kan je ook foutmeldingen krijgen.
+- Download Framer preview via app store om je prototype te testen op je mobiel. Zorg ervoor dat je wel verbonden bent met WiFi.
+- Als je error melding krijgt, stel je vraag in de Community het wordt meestal wel opgelost door experts.
+- Framer programma kan wel vaak vastzitten, zorg ervoor dat je na een paar minuten je code blijft opslaan.
 
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
