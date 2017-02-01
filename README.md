@@ -20,7 +20,11 @@ De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik
 
 Mijn Coffeescript code is terug te vinden in mijn Github.
 
-
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
+
+
+- Framer website:     https://framer.com/
+- Community:          https://www.facebook.com/groups/framerjs/?fref=ts
+- Youtube kanaal:     https://www.youtube.com/channel/UCW5gUZ7lKGrAbLOkHv2xfbw
 
 
