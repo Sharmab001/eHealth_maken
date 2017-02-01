@@ -18,7 +18,16 @@ Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Commu
 Wat wil ik overdragen aan de studenten van volgend jaar?
 De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik overdragen aan de studenten. Binnen de BDD applicatie vonden de patienten het heel belangrijk om zelf hun privacy in controle te hebben. Zij hebben aangegeven dat de ervaringen geschikt zijn voor bepaalde mensen en niet voor iedereen. Verder kan er bij issues gekeken worden wat er nog toegevoegd moest worden aan de prototype (must have & nices to have). Hier ben ik niet aan toegekomen, omdat het mij niet gelukt was met Coffeescript. Het kan misschien voor de studenten van volgend jaar een uitdaging zijn om dit met de prototype tool Framer uit te werken.
 
-Mijn Coffeescript code is terug te vinden in mijn Github.
+Mijn Coffeescript code is terug te vinden in mijn Github. Om mijn prototype met de bijhorende code te openen, moet de framer programma gedownload worden. Framer is alleen beschikbaar voor Mac.
+
+Tips:
+1. Als je schermen van Sketch naar Framer importeert, geef de layers een logisch naam zodat je dit makkelijk kan aanroepen in de code.
+2. Vanuit Photoshop kan je ook schermen importeren naar Framer, dus voel je vrij om ook met Photoshop te werken.
+3. Let op witruime in je Coffeescript code, door te weinig witruime kan je ook foutmeldingen krijgen.
+4. Download Framer preview via app store om je prototype te testen op je mobiel. Zorg ervoor dat je wel verbonden bent met WiFi.
+5. Als je error melding krijgt, stel je vraag in de Community het wordt meestal wel opgelost door experts.
+6. Framer programma kan wel vaak vastzitten, zorg ervoor dat je na een paar minuten je code blijft opslaan.
+
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
