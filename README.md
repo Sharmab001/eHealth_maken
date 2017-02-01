@@ -13,8 +13,11 @@ Het beste aan framer vond ik dat er meer belevenis inzit en dat het mij mogelijk
 
 In de toekomst, wil ik framer.js verder gebruiken en mijn kennis meer uitbreiden. Daarvoor moet ik meer tijd nemen en meer vragen stellen in de community. Ik vond het vooral prettig, dat ik mijn schermen vanuit sketch makkelijk kon importeren in Framer. Het ging altijd foutloos en mijn schermen en de layers waren goed zichtbaar. 
 
-
 Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Community op Facebook, en op de website te kijken naar het werk van andere ontwerpers. Ook kan men op Youtube naar voorbeelden kijken, maar mijn voorkeur gaat liever naar de community, omdat men daar voorbeelden in vorm van code plaatst met een goed uitleg.
+
+Wat wil ik overdragen aan de studenten van volgend jaar?
+De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik overdragen aan de studenten. Binnen de BDD applicatie vonden de patienten het heel belangrijk om zelf hun privacy in controle te hebben. Zij hebben aangegeven dat de ervaringen geschikt zijn voor bepaalde mensen en niet voor iedereen. Verder kan er bij issues gekeken worden wat er nog toegevoegd moest worden aan de prototype (must have & nices to have). Hier ben ik niet aan toegekomen, omdat het mij niet gelukt was met Coffeescript. Het kan misschien voor de studenten van volgend jaar een uitdaging zijn om dit met Coffeescript uit te werken.
+
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
