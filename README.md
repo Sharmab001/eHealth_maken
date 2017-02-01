@@ -18,6 +18,8 @@ Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Commu
 Wat wil ik overdragen aan de studenten van volgend jaar?
 De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik overdragen aan de studenten. Binnen de BDD applicatie vonden de patienten het heel belangrijk om zelf hun privacy in controle te hebben. Zij hebben aangegeven dat de ervaringen geschikt zijn voor bepaalde mensen en niet voor iedereen. Verder kan er bij issues gekeken worden wat er nog toegevoegd moest worden aan de prototype (must have & nices to have). Hier ben ik niet aan toegekomen, omdat het mij niet gelukt was met Coffeescript. Het kan misschien voor de studenten van volgend jaar een uitdaging zijn om dit met de prototype tool Framer uit te werken.
 
+Mijn Coffeescript code is terug te vinden in mijn Github.
+
 
 Bron: framer.js (2016) Programmering. Geraadpleegd op 25 januari 2017, van https://framer.com/getstarted/programming/
 
