@@ -16,13 +16,13 @@ In de toekomst, wil ik framer.js verder gebruiken en mijn kennis meer uitbreiden
 Als men wilt beginnen met framer.js is mijn advies om lid te worden van de Community op Facebook, en op de website te kijken naar het werk van andere ontwerpers. Ook kan men op Youtube naar voorbeelden kijken, maar mijn voorkeur gaat liever naar de community, omdat men daar voorbeelden in vorm van code plaatst met een goed uitleg.
 
 **Wat wil ik overdragen aan de studenten van volgend jaar?**
-De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik overdragen aan de studenten. Binnen de BDD applicatie vonden de patienten het heel belangrijk om zelf hun privacy in controle te hebben. Zij hebben aangegeven dat de ervaringen geschikt zijn voor bepaalde mensen en niet voor iedereen. Verder kan er bij issues gekeken worden wat er nog toegevoegd moest worden aan de prototype (must have & nices to have). Hier ben ik niet aan toegekomen, omdat het mij niet gelukt was met Coffeescript. Het kan misschien voor de studenten van volgend jaar een uitdaging zijn om dit met de prototype tool Framer uit te werken.
+De prototype die ik in framer met behulp van Coffeescript heb uitgewerkt, wil ik overdragen aan de studenten. Binnen de BDD applicatie vonden de patienten het heel belangrijk om zelf hun privacy in controle te hebben. Zij hebben aangegeven dat de ervaringen geschikt zijn voor bepaalde mensen en niet voor iedereen. Verder kan er bij issues gekeken worden wat er nog toegevoegd moest worden aan de prototype (must have & nices to have). Hier ben ik niet aan toegekomen, omdat het mij niet gelukt was met Coffeescript. Het niveau hiervoor was te hoog voor mij. Het kan misschien voor de studenten van volgend jaar een uitdaging zijn om dit met de prototype tool Framer verder uit te werken.
 
 Mijn Coffeescript code is terug te vinden in mijn Github. Om mijn prototype met de bijhorende code te openen, moet de framer programma gedownload worden. 
 
 **Framer is alleen beschikbaar voor Mac.**
 
-**Tips:**
+**Tips voor als je framer gaat gebruiken:**
 - Als je schermen van Sketch naar Framer importeert, geef de layers een logisch naam zodat je dit makkelijk kan aanroepen in de code.
 - Vanuit Photoshop kan je ook schermen importeren naar Framer, dus voel je vrij om ook met Photoshop te werken.
 - Let op witruime in je Coffeescript code, door te weinig witruime kan je ook foutmeldingen krijgen.
